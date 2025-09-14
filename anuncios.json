@@ -1,7 +1,51 @@
 [
-    {
-        "title": "Culto de Quarta-Feira 16/07",
-        "image": "https://via.placeholder.com/600x300?text=Culto+Domingo",
-        "description": "Culto Das Mulheres/19H!"
-    }
+  {
+    "day": "Segunda-feira",
+    "date": "2025-09-15",
+    "atividade": "Sem atividades",
+    "horario": "-",
+    "local": "-"
+  },
+  {
+    "day": "Terça-feira",
+    "date": "2025-09-16",
+    "atividade": "Culto de Ensino",
+    "horario": "19:00h",
+    "local": "Na Matriz"
+  },
+  {
+    "day": "Quarta-feira",
+    "date": "2025-09-17",
+    "atividade": "Culto de Louvor e Adoração com toda igreja. Direção: Depart. de Irmãs",
+    "horario": "19:00h",
+    "local": "Na Congregação"
+  },
+  {
+    "day": "Quinta-feira",
+    "date": "2025-09-18",
+    "atividade": "Consagração com toda igreja. Direção: Irmãs. Ensaio do Coral",
+    "horario": "08:00h às 19:30h",
+    "local": "Na Congregação"
+  },
+  {
+    "day": "Sexta-feira",
+    "date": "2025-09-19",
+    "atividade": "Culto de Ensino",
+    "horario": "19:00h",
+    "local": "Na Congregação"
+  },
+  {
+    "day": "Sábado",
+    "date": "2025-09-20",
+    "atividade": "Ensaio da UfadOF",
+    "horario": "14:00h",
+    "local": "-"
+  },
+  {
+    "day": "Domingo",
+    "date": "2025-09-21",
+    "atividade": "EBD, Ensaio para o Ministério de Louvor, Culto de Louvor e Adoração e Santa Ceia",
+    "horario": "08:00h, 17:00h e 18:00h",
+    "local": "Na Congregação"
+  }
 ]
